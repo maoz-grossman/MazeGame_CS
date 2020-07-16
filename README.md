@@ -1,2 +1,5 @@
 # MazeGame_CS
-bassic maze game for c#
+
+Maze generator
+Implemented as a console game.
+![Image](https://i.ibb.co/fQgN43m/MazeGame.png)
