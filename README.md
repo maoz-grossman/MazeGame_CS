@@ -37,4 +37,4 @@ This algorithm is a randomized version of Prim's algorithm.
   
 
 
-![Image](https://i.ibb.co/fQgN43m/MazeGame.png)
+![Image](https://i.ibb.co/fQgN43m/MazeGame.png =250x250)
